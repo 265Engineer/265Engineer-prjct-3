@@ -1,4 +1,4 @@
-
+// This code is for displaying ID information
 #include <SoftwareSerial.h>
 SoftwareSerial GM65(3,2); // RX, TX
 String incomingData = "";
